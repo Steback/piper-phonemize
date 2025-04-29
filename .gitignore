@@ -6,6 +6,7 @@ tmp/
 *.py[cod]
 *.egg
 build
+cmake-build-*
 htmlcov
 
 /.venv/
